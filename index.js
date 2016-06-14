@@ -9,9 +9,9 @@ app.set('views', __dirname);
 app.set('view engine', 'jade');
 
 app.get('/', function (req, res) {
-    res.render('app/view.jade', {});
+  res.render('app/view.jade', {});
 });
 
 app.listen(8080, function () {
-    console.log('Module is listening on port 8080!');
+  console.log('Module is listening on port 8080!');
 });
