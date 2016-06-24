@@ -18,6 +18,8 @@
     "jade": "^1.11.0"
   },
   "smartmirror": {
-    "size": ["2x2"]
+    "size": [
+      "2x2"
+    ]
   }
 }
